@@ -1,0 +1,41 @@
+.jumbotron{
+    background-image: url(/20220122_133058-1.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.navbar{
+    margin: 0 !important;
+}
+
+.container{
+ position: relative;
+    top: 150px;
+}
+.box1{
+    color:white;
+}
+.box2{
+}
+
+.row1{
+    margin-bottom: 20px;
+
+}
+
+.row2{
+    margin-top: 20px;
+}
+
+.label{
+    color: azure;
+}
+.card{
+background-color: rgb(248, 255, 205);
+padding: 10px;
+margin: 20px 30px 20px ;
+border-radius: 30px;
+}
+
+.card-titlel{
+    color: aqua;
+}
